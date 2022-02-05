@@ -1,6 +1,6 @@
 # SDSU SYMPOSIUM  2022 POWER BI WORKSHOP
 
-This work shop is project-based course intended for students looking for a practical and hands-on approach to learning  business intelligence with power BI desktop 
+This work shop is project-based course intended for  a practical and hands-on approach to learning  business intelligence with power BI desktop 
 
 We will use:
 
