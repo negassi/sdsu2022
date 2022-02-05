@@ -22,10 +22,11 @@ PowerBI is an interactive data visualization and reporting tool that is used in 
 * Get Data in Power BI
 * Harvest, Transform, and Load Data in Power Query
 * Design a Data Model in Power BI
+* Creating Reports
+
 #### If time allows
 * Creating Measures using DAX in Power BI
-* Optimizing Model Performance
-* Creating Reports
+
 
 ## Workshop 2: Instructions
 * No specific prerequisites. Familiarity with data analytics will help.
