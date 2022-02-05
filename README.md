@@ -1,4 +1,4 @@
-# sdsu2022
+# SDSU SYMPOSIUM  2022 POWER BI WORKSHOP
 SDSU DATA SYMPOSIUM 2022: WORKSHOP
 Adventure Works Data. Fictional microsoft Bicycle Data
 
