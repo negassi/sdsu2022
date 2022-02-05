@@ -2,7 +2,7 @@
 
 This work shop is project-based course intended for  a practical and hands-on approach to learning  business intelligence with power BI desktop 
 
-### We will use:
+### Data for Exercise:
 
  Adventure Works Data. Fictional microsoft Bicycle Data
 
